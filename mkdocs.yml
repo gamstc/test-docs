@@ -1,32 +1,7 @@
 site_name: Test Documentation
 nav:
-- Home: 'first_page.md'
-- Platform Features:
-  - Overview: 'features/platform.md'
-  - Structure:
-    - 'Structure': 'features/structure/structure.md'
-  - External Tools:
-    - CodeOcean: 'features/externaltools/codeocean.md'
-    - CodeHarbor: 'features/externaltools/codeharbor.md'
-    - TeamBuilder: 'features/externaltools/teambuilder.md'
-    - H5P: 'features/externaltools/h5p.md'
-- Best Practices:
-  - 'Getting Started - Design your Course': 'bestpractices/gettingstarted.md'
-  - 'Curriculum Design': 'bestpractices/curriculumdesign.md'
-  - 'Recommended Course Cycles':
-    - Course Cycles: 'bestpractices/recommendedcoursecycles/coursecycles.md'
-    - 'Scheduled':
-      - Lecture: 'bestpractices/recommendedcoursecycles/scheduled/lecture.md'
-      - Hands-on: 'bestpractices/recommendedcoursecycles/scheduled/handson.md'
-      - Workshop: 'bestpractices/recommendedcoursecycles/scheduled/workshop.md'
-- Course Administration:
-  - Setup Course Properties: 'courseadministration/courseproperties.md'
-  - Grant Permissions: 'courseadministration/permissions.md'
-  - Add Content:
-    - Modules: 'courseadministration/addcontent/modules.md'
-    - Learning Units:
-      - General: 'courseadministration/addcontent/learningunits/learningunit.md'
-      - Quiz: 'courseadministration/addcontent/learningunits/quiz.md'
-      - Quiz Import: 'courseadministration/addcontent/quiz/quiz_import.md'
-      
+- Home: 'index.md'
+- Subsection:
+  - Page: 'subsection/page.md'
+  
 theme: windmill
