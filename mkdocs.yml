@@ -5,3 +5,7 @@ nav:
   - Page: 'subsection/page.md'
   
 theme: windmill
+
+extra_css:
+  - css/some.css
+  
